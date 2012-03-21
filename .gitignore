@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [Oo]bj/
 [Bb]in/
 *.user
@@ -27,9 +26,8 @@ BlogEngine/BlogEngine.NET/App_Data/datastore/extensions/
 BlogEngine/packages/
 BlogEngine/BlogEngine.NET/App_Data/Elmah.Errors/*
 BlogEngine/BlogEngine.NET/App_Data/posts/*
-=======
 _ReSharper*
 bin
 obj
 *.suo
->>>>>>> 2c611f05cb2e292bd44592b0e8f4cdd400bb8679
+*.swp
